@@ -24,18 +24,15 @@ $ git clone https://github.com/WHOAMI-XD-KING/MY-BANNER.git
 $ cd MY-BANNER
 ```
 ```
-$ chmod +x *
+$ bash install
 ```
 ```
-$ sh install.sh
+$ bash TXB.sh
 ```
 Now Type exit & restart Termux
 
 ### Update Tool
 ```
-$ rm -rf 'MY-BANNER' && pkg install mpv -y && git clone https://github.com/WHOAMI-XD-KING/MY-BANNER.git && cd Voice-Welcome && chmod +x * && sh install.sh && exit
-```
-
 ### Subscribe our channel on youtube
 https://youtube.com/channel/UCMMkaytXBYmuF9_fIJDNmBA
 
